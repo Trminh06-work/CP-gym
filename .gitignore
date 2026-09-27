@@ -1,0 +1,8 @@
+*.out
+*.in
+cses
+usaco
+
+.vscode/
+
+.DS_Store/

@@ -1,7 +1,5 @@
 *.out
 *.in
-cses
-usaco
 
 .vscode/
 

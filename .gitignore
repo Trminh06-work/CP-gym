@@ -2,5 +2,6 @@
 *.in
 
 .vscode/
+main.cpp
 
 .DS_Store/

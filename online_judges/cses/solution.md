@@ -1,95 +1,94 @@
 # CSES — Solved
 
-Problem set: https://cses.fi/problemset/
-
-Code: link to the `.cpp` in this folder, or `on judge` if it isn't pushed.
+Grouped by CSES problem-set section: https://cses.fi/problemset/
 
 ## Introductory Problems
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
+| [1070 - Permutations](https://cses.fi/problemset/task/1070/) | Construction | [beauty_perm.cpp](beauty_perm.cpp) |
 
 ## Sorting and Searching
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
 
 ## Dynamic Programming
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
 
 ## Graph Algorithms
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
 
 ## Range Queries
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
 
 ## Tree Algorithms
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
 
 ## Mathematics
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
 
 ## String Algorithms
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
 
 ## Geometry
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
 
 ## Advanced Techniques
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
 
 ## Sliding Window Problems
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
 
 ## Interactive Problems
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
 
 ## Bitwise Operations
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
 
 ## Construction Problems
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
 
 ## Advanced Graph Problems
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
 
 ## Counting Problems
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
 
 ## Additional Problems I
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
 
 ## Additional Problems II
 
-| Problem | Code | Notes |
-| ------- | ---- | ----- |
+| Problem | Topic | Code |
+| ------- | ----- | ---- |
